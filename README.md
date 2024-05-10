@@ -1,6 +1,19 @@
-# coach_financeiro
-chatbot financeiro, monta um plano de recuperação ou plano de investimento e seu respectivo OKR (Objective-KeyResult) para atingir os resultados pretendidos.
+# Coach Financeiro
+Quem nunca teve um enrosco financeiro, né? Que tal um coach financeiro pra te ajudar a sair desse problema? ou está começando a investir e precisa de um plano.
+O ChatBot financeiro, monta um plano de recuperação ou plano de investimento e seu respectivo OKR (Objective-KeyResult) para atingir os resultados pretendidos.
 Considerando que 77,8% da população segue endividada esse chatbot se propõe a ajudar essas pessoas a montar um plano de recuperação e um OKR (Objective-KeyResults) para atingir esse objetivo maior que é sair da dívida o mais rápido possível. Para isso, ele vai perguntar o montante total da dívida, os juros, e o quanto ela consegue poupar por mês. Caso a pessoa não esteja endividada, o chatbot vai montar um plano de investimento baseado no perfil que a pessoa indicar (conservador/moderado/arrojado). Lembrando que este é um experimento acadêmico e não serve como dica de investimento e nem garante que o plano de recuperação é infalível.
+
+# Problema
+Cerca de 77,8% da população segue endividada e muitas vezes se sentem perdidas sem saber por onde começar.
+
+# Solução proposta
+Este ChatBot financeiro monta um plano de recuperação ou plano de investimento e seu respectivo OKR (Objective-KeyResult) para atingir os resultados pretendidos.
+
+# Metodologia
+Utilizando algumas perguntas para guiar a criação de um plano e o poderoso Google-Gemini-Pro para criar um plano executável.
+
+## Vote No Meu Projeto Na Imersão Alura
+https://discord.com/channels/1228404913705451612/1228406162618060913/1238273074244091925
 
 ## Exemplo de Plano de Recuperação Financeira
 >## Plano de Recuperação Financeira
